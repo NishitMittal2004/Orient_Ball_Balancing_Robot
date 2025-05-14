@@ -12,6 +12,8 @@
 ## 🔧 Tools & Concepts Used
 
 - Python
+- SolidWorks
+- 3d Printing
 - OpenCV (Contour Detection, HSV Tuning)
 - Inverse Kinematics (for 3-RRS)
 - PID Control
@@ -63,7 +65,7 @@ After exhaustive tuning and testing, a finely tuned PID controller was implement
 
 ## 👨‍💻 Authors
 
-- **Nishit Mittal**  
-- **Sahil Sharma**
+- **Nishit Mittal**  [(LinkedIn)](https://www.linkedin.com/in/nishit-mittal-15nm/)
+- **Sahil Sharma**   [(LinkedIn)](https://www.linkedin.com/in/sahilsharma55/)
 
 
