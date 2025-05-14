@@ -1,4 +1,4 @@
-# Orient Ball Balancing Robot 
+# Orient - Ball Balancing Robot 
 ![alt text](https://github.com/NishitMittal2004/Orient_Ball_Balancing_Robot/blob/main/Ball%20Balancing%20Robot%20-%20Poster.png)
 
 ---
@@ -20,7 +20,7 @@
 
 ---
 
-## Demo Video of robot balancing the ball
+## 🎥 Video of robot balancing the ball
 ![](Balance.gif)
 
 ---
@@ -60,6 +60,12 @@ We derived and implemented the IK for the 3-RRS platform to calculate the exact 
 ## 🎛️ PID Tuning
 
 After exhaustive tuning and testing, a finely tuned PID controller was implemented, keeping the ball at centre.
+
+---
+
+## 📐 CAD Files
+
+All the 3D models used in this project—including the base, platform, servo holders, and linkages—were custom-designed using SolidWorks. You can find the .stl files in the /CAD STLs directory. These files are ready for 3d printing.
 
 ---
 
