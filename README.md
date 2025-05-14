@@ -19,6 +19,7 @@
 ---
 
 ## Demo Video of robot balancing the ball
+![](Balance.gif)
 
 ---
 
@@ -34,8 +35,35 @@
 | 5. | **MG995 Servo Motors** | 3 | Actuation of platform | 
 | 6. | **PCA9685 Servo Driver** | 1 | Servo PWM control |
 | 7. | **5V/2A DC Adapter** | 1 | Powers servo driver | 
-| 8. | **Female DC Jack** | 1 | Connects adapter to servo board |
+| 8. | **Female DC Jack** | 1 | Connects adapter to servo driver|
 | 9. | **Ball Joint (M6)** | 3 | Platform joints (RRS design) | 
-| 10. | **Ball Bearings (ID - 6mm, OD - 16mm)** | 3 | For joint rotation stability |
+| 10. | **Ball Bearings (ID - 6mm, OD - 16mm)** | 3 | For joint rotation |
+
+---
+
+## 🧮 Inverse Kinematics [(Notes)](https://github.com/NishitMittal2004/Orient_Ball_Balancing_Robot/blob/main/Inverse%20Kinematics%20Maths.pdf)
+
+We derived and implemented the IK for the 3-RRS platform to calculate the exact servo angles required to achieve desired platform tilt and height. This allowed precise control over the ball's motion.
+
+---
+
+## 👁️ Ball Detection with OpenCV
+
+- HSV Trackbar for color tuning
+- `cv2.findContours` and `cv2.minEnclosingCircle` to detect the ball
+- Real-time position and area returned for control logic
+
+---
+
+## 🧪 PID Tuning
+
+After exhaustive tuning and testing, a finely tuned PID controller was implemented, keeping the ball at centre.
+
+---
+
+## 👨‍💻 Authors
+
+- **Nishit Mittal**  
+- **Sahil Sharma**
 
 
