@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Overview ![Youtube Link]([https://www.youtube.com/watch?v=bi4151fWoTY&t=1s](https://youtu.be/bi4151fWoTY?si=JoRBgQAYI115yuMf))
+## 📌 Overview [(Youtube Link)](https://youtu.be/bi4151fWoTY?si=JoRBgQAYI115yuMf)
 
  **ORIENT** is a ball-balancing **3-RRS (Revolute-Revolute-Spherical)** Platform. It can dynamically balance a ball in real time and perform motion tasks such as moving in straight lines, quadrants, and even circles. The robot uses real-time computer vision, inverse kinematics, and PID control for its operation.
 
