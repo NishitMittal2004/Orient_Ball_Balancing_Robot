@@ -63,7 +63,7 @@ After exhaustive tuning and testing, a finely tuned PID controller was implement
 
 ---
 
-## 📐 CAD Files
+## 📐 CAD Files [(Link)](https://github.com/NishitMittal2004/Orient_Ball_Balancing_Robot/tree/main/CAD%20STLs)
 
 All the 3D models used in this project—including the base, platform, servo holders, and linkages—were custom-designed using SolidWorks. You can find the .stl files in the /CAD STLs directory. These files are ready for 3d printing.
 
