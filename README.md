@@ -59,7 +59,7 @@ We derived and implemented the IK for the 3-RRS platform to calculate the exact 
 
 ## 🎛️ PID Tuning
 
-After exhaustive tuning and testing, a finely tuned PID controller was implemented, keeping the ball at centre.
+After exhaustive tuning and testing, a finely tuned PID controller was implemented, keeping the ball at the center.
 
 ---
 
